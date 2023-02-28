@@ -4,6 +4,4 @@
 [Live Preview](https://library-app-opal.vercel.app/)
 
 #### Contributors:
-@sabioyo - Muhammed Sabi Abdulmajeed
-@TimmyTurner4841 - Timilehin
-@Tomiwathedaddy - Omotoso Olatomiwa
+@jeremiahiro - Jeremiah Iro
