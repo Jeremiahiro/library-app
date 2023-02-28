@@ -6,4 +6,8 @@ Jermeiahiro - 28/02/2023
 - Created template for changelog
 - added my name to the list of contributors
 
+Tomiwathedaddy - 28/02/2023
+-created branch "tomiwa"
+-added my name to the list of collaborators
+
 
