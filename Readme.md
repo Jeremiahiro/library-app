@@ -5,4 +5,4 @@
 
 #### Contributors:
 @jeremiahiro - Jeremiah Iro
-@TimmyTurner4841- Solomon Timilehin
+@TimmyTurner4841- Timilehin
