@@ -5,4 +5,3 @@
 
 #### Contributors:
 @jeremiahiro - Jeremiah Iro
-@tomiwathedaddy - Omotoso OLatomiwa
