@@ -7,7 +7,7 @@ Jermeiahiro - 28/02/2023
 - added my name to the list of contributors
 
 Tomiwathedaddy - 28/02/2023
--created branch "tomiwa"
--added my name to the list of collaborators
+-created branch "tomiwa".
+-added my name to the list of contributors.
 
 
